@@ -89,7 +89,7 @@
     }
     .invite-text {
         font-size: 118px;
-        margin-top: 15px;
+        margin-top: 28px;
     }
     .attention .container {
         padding: 130px 0;
@@ -227,7 +227,7 @@
         padding: 0 0 50px 0;
     }
     .attention-we {
-        top: -75px;
+        top: -40px;
         left: -30px;
     }
     .main {
@@ -349,7 +349,7 @@
     }
 
     .main .container::before {
-        top: 591px;
+        top: 583px;
     }
     .date-container {
         transform: translate(-50%, 285px);
@@ -359,7 +359,7 @@
 }
 @media (max-width: 435px) {
     .date-container {
-        transform: translate(-50%, 285px);
+        transform: translate(-50%, 279px);
     }
     .side {
         width: 180px;
